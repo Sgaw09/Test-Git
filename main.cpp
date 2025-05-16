@@ -2,8 +2,8 @@
 using namesapce std;
 
 int main() {
+    int a, b;
     cout << "Hello World!";
-    cout << "Hello Sgaw"
-    cout << "DJ Rangas";
+    
     return 0;
 }
